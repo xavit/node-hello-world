@@ -1,0 +1,11 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "test node",
+  "main": "index.js",
+  "author": "Javier Claros",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
